@@ -2,6 +2,8 @@
 
 Space Breaker est un jeu de casse-briques développé en C utilisant la bibliothèque SDL2. Le joueur contrôle une raquette pour renvoyer une balle et détruire des briques. Le jeu propose plusieurs niveaux avec des difficultés croissantes.
 
+https://youtu.be/Szs2cavPAfE?si=R3GYDhEGtpd2wGwi
+
 ## Fonctionnalités du jeu
 
 - Contrôle de la raquette avec les touches fléchées gauche et droite.
